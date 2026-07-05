@@ -1,0 +1,128 @@
+{
+    "email_file": "samples/spam.eml",
+    "headers": {
+        "subject": "[SPAM] Did You Get Your Free EDT Yet?",
+        "from": "The Coolest Multi Tool <contact@theultimatesurvival.bid>",
+        "to": "REMOVED@PERSONALDATA.org"
+    },
+    "originating_ip": {
+        "ip": "67.212.164.109",
+        "reputation": {
+            "ipAddress": "67.212.164.109",
+            "isPublic": true,
+            "ipVersion": 4,
+            "isWhitelisted": false,
+            "abuseConfidenceScore": 0,
+            "countryCode": "US",
+            "usageType": "Data Center/Web Hosting/Transit",
+            "isp": "Internap Holding LLC",
+            "domain": "horizoniq.com",
+            "hostnames": [
+                "109.164.212.67.unassigned.ord.singlehop.net"
+            ],
+            "isTor": false,
+            "totalReports": 0,
+            "numDistinctUsers": 0,
+            "lastReportedAt": null
+        }
+    },
+    "urls": [
+        {
+            "url": "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+            "vt_results": {
+                "error": "Network error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/urls/aHR0cDovL3d3dy53My5vcmcvVFIveGh0bWwxL0RURC94aHRtbDEtdHJhbnNpdGlvbmFsLmR0ZA (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.virustotal.com', port=443) at 0x1d0fd2b07d0>, 'Connection to www.virustotal.com timed out. (connect timeout=10)'))"
+            }
+        },
+        {
+            "url": "http://theultimatesurvival.bid/979347004fd931256c.jpg",
+            "vt_results": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 34,
+                "harmless": 58,
+                "timeout": 0
+            }
+        },
+        {
+            "url": "http://theultimatesurvival.bid/KoIvQtW0N1eoOY9kGPddje_SnkeC-aB87TYe0R6ePXGi",
+            "vt_results": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 34,
+                "harmless": 58,
+                "timeout": 0
+            }
+        },
+        {
+            "url": "http://theultimatesurvival.bid/i625tIhUojZlhy5A7pK2WMyiQghBfdVQ9Fq0G2UeLMFl",
+            "vt_results": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 34,
+                "harmless": 58,
+                "timeout": 0
+            }
+        },
+        {
+            "url": "http://www.w3.org/1999/xhtml",
+            "vt_results": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 32,
+                "harmless": 60,
+                "timeout": 0
+            }
+        },
+        {
+            "url": "http://theultimatesurvival.bid/ejmKN0YuGMTFZo4q-I3YI3jUStGZ4x1grgDsSw4E7rGe",
+            "vt_results": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 35,
+                "harmless": 57,
+                "timeout": 0
+            }
+        },
+        {
+            "url": "http://theultimatesurvival.bid/16884025599d0b9eb3.jpg",
+            "vt_results": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 34,
+                "harmless": 58,
+                "timeout": 0
+            }
+        },
+        {
+            "url": "http://theultimatesurvival.bid/Q7mQpQ-vpDVqw84B53M_Fw4Rasnl8yzMlgBv9wlwUM4f",
+            "vt_results": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 35,
+                "harmless": 57,
+                "timeout": 0
+            }
+        },
+        {
+            "url": "http://theultimatesurvival.bid/zfcG0umfLpjPd4H1F-Fq4wNjClvjTJ1xNkCJ8CsxA2yB",
+            "vt_results": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 35,
+                "harmless": 57,
+                "timeout": 0
+            }
+        },
+        {
+            "url": "http://theultimatesurvival.bid/b96eab8bc00c097174.png",
+            "vt_results": {
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 34,
+                "harmless": 58,
+                "timeout": 0
+            }
+        }
+    ],
+    "attachments": []
+}
